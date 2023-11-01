@@ -1,6 +1,6 @@
 # IMP-JS-logical-questions
 
-1. You have an array of objects representing people's ages and names:
+## 1. You have an array of objects representing people's ages and names:
 ```
 const people = [
   { name: 'Alice', age: 25 },
@@ -36,7 +36,7 @@ Output:
 
 ```
 
-2. You are given an array of objects representing books with title, author, and publication year:
+## 2. You are given an array of objects representing books with title, author, and publication year:
 ```
 const books = [
   { title: 'Book A', author: 'Author X', year: 2020 },
