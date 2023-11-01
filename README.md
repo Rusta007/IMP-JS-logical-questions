@@ -1,6 +1,6 @@
 # IMP-JS-logical-questions
 
-## 1. You have an array of objects representing people's ages and names:
+#### 1. You have an array of objects representing people's ages and names:
 ```
 const people = [
   { name: 'Alice', age: 25 },
@@ -11,7 +11,7 @@ const people = [
 ```
 Your task is to write a function that ```sorts the people array by age in ascending order```. How would you solve this problem?
 
-#### Solution:
+###### Solution:
 
 ```
 const people = [
@@ -36,7 +36,7 @@ Output:
 
 ```
 
-## 2. You are given an array of objects representing books with title, author, and publication year:
+#### 2. You are given an array of objects representing books with title, author, and publication year:
 ```
 const books = [
   { title: 'Book A', author: 'Author X', year: 2020 },
@@ -47,7 +47,7 @@ const books = [
 ```
 Your task is to write a function that ```filters this array to find books published between the years 2010 and 2020```, and then ```sort them in alphabetical order by the book title```. How would you solve this problem?
 
-#### Solution:
+###### Solution:
 ```
 const books = [
   { title: 'Book A', author: 'Author X', year: 2020 },
